@@ -1,0 +1,1 @@
+# This is a Spring boot service application built using Spring boot, GraphQL, Spring security and H2DB
